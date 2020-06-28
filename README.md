@@ -1,4 +1,4 @@
-# auction-system
+# Auction System
 
 Implementation of an auction system. The system presents competition management and notifies bidders when the bidding deadline is approaching.
 You can insert objects into the auction and bid for a specific auction.
